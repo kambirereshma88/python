@@ -5,5 +5,17 @@ if a==b:
 else:
     print(False)
 
+
+
+
+a=5
+b=10
+if a==b:
+    print(True)
+
+else:
+    print(False)
+    
+
     
     

@@ -91,6 +91,56 @@ print("hello  "*5)
 print("*"*1000)
 
 
+#conditional statement
+
+if 1==2:
+    print(True)
+else:
+    print(False)
+
+n = 11
+print(n%2)
+if n%2==0:
+    print(n,"is even number")
+else:
+    print(n,"is an odd number")
+    
+
+
+
+a=1
+b=11
+c=0
+if(a>b and a>c):
+    print(a,' is greater')
+elif (b>0 and b>c):
+    print(b,' is greater')
+else:
+    print(c,' is greater')
+
+
+
+a=81-100
+b=61-80
+c=41-60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
 
 
 
