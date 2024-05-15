@@ -1,3 +1,6 @@
+
+#data types in python
+
 #number
 a = 1
 print(a)
