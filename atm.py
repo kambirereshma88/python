@@ -13,4 +13,4 @@ if amount%100 == 0:
                 print("100 of notes are ",notes)
                 amount = amount%100
             else:
-                    print("Amount should be multiple of 100")
+                print("Amount should be multiple of 100")

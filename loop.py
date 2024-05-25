@@ -1,5 +1,5 @@
 #loops
-"""
+
 i=1
 while i<=10:
       print(i)
@@ -12,7 +12,7 @@ while i<=20:
       print(i)
       i+=1
 
-"""
+
 
 
 
