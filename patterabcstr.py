@@ -8,3 +8,12 @@ for row in range(0,len(stdata),1):
             print(stdata[row],end=" ")
     cols+=1
     print()
+
+
+"""
+step1:-1 for outer loop 
+cols=1
+row=65
+inner loop will run
+
+"""

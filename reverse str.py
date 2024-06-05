@@ -1,5 +1,5 @@
 
-"""
+
 # with negative str 
 a="my name is khan"
 i=-1
@@ -12,12 +12,9 @@ while i>=l:
     i=i-1
 print(s)
 
-"""
-
 
 #with positive str
 
-"""
 a="my name is khan"
 i=0
 l=(len(a))
@@ -27,8 +24,6 @@ while i>=l:
     s=s+a[i]
     i=i-1
 print(s)
-"""
-
 
 
 a="my name is reshma"
