@@ -1,4 +1,4 @@
-"""
+
 a=('reshma',34,'thane')
 (name,age,city)= a
 print(name)
@@ -20,7 +20,6 @@ a=tuple(b)
 print(a)
 
 
-"""
 
 
 a=[153,11,22,24,140,556]
@@ -46,13 +45,26 @@ for i in a:
     if len(i)==5:
         b.append(i)
 print(b)
-
-
-    
+   
 for i in a:
     if len(i)==5:
         print(i)
+
+
+
+
+
+a=['rahul','reshma','ira','ishan','pooja','preetam']
+b=[]
+for i in a:
+    if len(i)==3:
+        b.append(i)
+print(b)
     
+
+for i in a:
+    if len(i)==5:
+        print(i)
 
 
 
